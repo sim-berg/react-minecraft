@@ -39,7 +39,7 @@ function App() {
                             Place Block = Click<br />
                             Remove Block = Alt+Click<br />
                             Switch Block = 1,2,3,4,5</div>
-    <div className='github absolute'><img className="githubimg" src={github} alt=""  /></div>
+    <div className='github absolute'><a href="https://github.com/sim-berg/react-minecraft/tree/main"><img className="githubimg" src={github} alt=""  /></a></div>
     </>
     
   )
